@@ -1,0 +1,39 @@
+﻿@font-face {
+	font-family: 'Conv_MyriadProBold';
+	src: url('fonts/MyriadProBold.eot');
+	src: local('☺'), url('fonts/MyriadProBold.woff') format('woff'), url('fonts/MyriadProBold.ttf') format('truetype'), url('fonts/MyriadProBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+	font-family: 'Conv_MyriadProLightSemiExtended';
+	src: url('fonts/MyriadProLightSemiExtended.eot');
+	src: local('☺'), url('fonts/MyriadProLightSemiExtended.woff') format('woff'), url('fonts/MyriadProLightSemiExtended.ttf') format('truetype'), url('fonts/MyriadProLightSemiExtended.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+	font-family: 'Conv_MyriadProRegular';
+	src: url('fonts/MyriadProRegular.eot');
+	src: local('☺'), url('fonts/MyriadProRegular.woff') format('woff'), url('fonts/MyriadProRegular.ttf') format('truetype'), url('fonts/MyriadProRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+.font-bold {
+	font-family: 'Conv_MyriadProBold';
+}
+.font-light {
+	font-family: "Conv_MyriadProLightSemiExtended";
+}
+.font-regular {
+	font-family: "Conv_MyriadProRegular";
+}
