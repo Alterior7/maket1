@@ -305,7 +305,7 @@ li.no-active
 {
 	display:inline-block;
 	font-size: 29px;
-	margin-left: 0px;
+	margin-left: -30px;
 	margin-bottom:12px;
 	letter-spacing: 0px;
 	text-transform: uppercase;
